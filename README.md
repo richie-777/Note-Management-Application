@@ -6,7 +6,7 @@ This is a Flask-based API for managing notes and users in a simple note-taking a
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/notemanagement-api.git
+    git clone https://github.com/richie-777/Note-Taking-Application/blob/main/app.py
     ```
 
 2. Navigate to the project directory:
