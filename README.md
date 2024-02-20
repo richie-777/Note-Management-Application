@@ -11,7 +11,7 @@ This is a Flask-based API for managing notes and users in a simple note-taking a
 
 2. Navigate to the project directory:
     ```bash
-    cd notemanagement-api
+    cd Note Management Application
     ```
 
 3. Install the required Python packages using pip:
