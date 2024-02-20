@@ -47,6 +47,18 @@ The application should now be running on `http://localhost:5000`.
 
 Refer to the API documentation or source code comments for detailed usage instructions and endpoint specifications.
 
+
+## Unit Testing
+
+The project includes unit tests to ensure the correctness of API endpoints. The unit_testing.py file contains test cases for each endpoint. To run the unit tests:
+
+```bash
+python -m unittest unit_test.py
+```
+
+The unit tests use the unittest library in Python and simulate HTTP requests to each endpoint. The tests cover various scenarios, including positive cases, error handling, and edge cases.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
