@@ -58,6 +58,10 @@ python -m unittest unit_test.py
 
 The unit tests use the unittest library in Python and simulate HTTP requests to each endpoint. The tests cover various scenarios, including positive cases, error handling, and edge cases.
 
+## Deployment
+
+This project is deployed here. click on the link to check this.
+https://richie777.pythonanywhere.com
 
 ## License
 
